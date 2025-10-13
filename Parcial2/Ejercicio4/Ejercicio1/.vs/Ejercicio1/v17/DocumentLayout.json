@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Estructuras\\Parcial2\\Ejercicio4\\Ejercicio1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79269ABF-3606-47D5-BC0A-D039797F1364}|Ejercicio1\\Ejercicio1.csproj|c:\\estructuras\\parcial2\\ejercicio4\\ejercicio1\\ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79269ABF-3606-47D5-BC0A-D039797F1364}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79269ABF-3606-47D5-BC0A-D039797F1364}|Ejercicio1\\Ejercicio1.csproj|c:\\estructuras\\parcial2\\ejercicio4\\ejercicio1\\ejercicio1\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79269ABF-3606-47D5-BC0A-D039797F1364}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pila.cs",
+              "DocumentMoniker": "C:\\Estructuras\\Parcial2\\Ejercicio4\\Ejercicio1\\Ejercicio1\\Pila.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Pila.cs",
+              "ToolTip": "C:\\Estructuras\\Parcial2\\Ejercicio4\\Ejercicio1\\Ejercicio1\\Pila.cs",
+              "RelativeToolTip": "Ejercicio1\\Pila.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAuwEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T15:46:11.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Estructuras\\Parcial2\\Ejercicio4\\Ejercicio1\\Ejercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Program.cs",
+              "ToolTip": "C:\\Estructuras\\Parcial2\\Ejercicio4\\Ejercicio1\\Ejercicio1\\Program.cs",
+              "RelativeToolTip": "Ejercicio1\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwC8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T15:45:50.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
