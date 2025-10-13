@@ -36,5 +36,7 @@ internal class Program
         {
             Console.WriteLine("\nNo son iguales");
         }
+
+        Console.ReadKey();
     }
 }
