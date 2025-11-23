@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jahir Nolasco\\Desktop\\Estructura de Datos\\Burbuja\\",
+  "WorkspaceRootPath": "C:\\Estructuras\\Parcial3\\Burbuja\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8E9FEA4-BEA3-4560-B080-91087D9C59BA}|Burbuja\\Burbuja.csproj|c:\\users\\jahir nolasco\\desktop\\estructura de datos\\burbuja\\burbuja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B8E9FEA4-BEA3-4560-B080-91087D9C59BA}|Burbuja\\Burbuja.csproj|c:\\estructuras\\parcial3\\burbuja\\burbuja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8E9FEA4-BEA3-4560-B080-91087D9C59BA}|Burbuja\\Burbuja.csproj|solutionrelative:burbuja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Jahir Nolasco\\Desktop\\Estructura de Datos\\Burbuja\\Burbuja\\Program.cs",
+              "DocumentMoniker": "C:\\Estructuras\\Parcial3\\Burbuja\\Burbuja\\Program.cs",
               "RelativeDocumentMoniker": "Burbuja\\Program.cs",
-              "ToolTip": "C:\\Users\\Jahir Nolasco\\Desktop\\Estructura de Datos\\Burbuja\\Burbuja\\Program.cs",
+              "ToolTip": "C:\\Estructuras\\Parcial3\\Burbuja\\Burbuja\\Program.cs",
               "RelativeToolTip": "Burbuja\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAuwA4AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwA4AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-18T17:40:08.477Z",
               "EditorCaption": ""

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jahir Nolasco\\Desktop\\Estructura de Datos\\Burbuja\\Burbuja\\Burbuja.csproj": {}
+    "C:\\Estructuras\\Parcial3\\Burbuja\\Burbuja\\Burbuja.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jahir Nolasco\\Desktop\\Estructura de Datos\\Burbuja\\Burbuja\\Burbuja.csproj": {
+    "C:\\Estructuras\\Parcial3\\Burbuja\\Burbuja\\Burbuja.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jahir Nolasco\\Desktop\\Estructura de Datos\\Burbuja\\Burbuja\\Burbuja.csproj",
+        "projectUniqueName": "C:\\Estructuras\\Parcial3\\Burbuja\\Burbuja\\Burbuja.csproj",
         "projectName": "Burbuja",
-        "projectPath": "C:\\Users\\Jahir Nolasco\\Desktop\\Estructura de Datos\\Burbuja\\Burbuja\\Burbuja.csproj",
+        "projectPath": "C:\\Estructuras\\Parcial3\\Burbuja\\Burbuja\\Burbuja.csproj",
         "packagesPath": "C:\\Users\\Jahir Nolasco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jahir Nolasco\\Desktop\\Estructura de Datos\\Burbuja\\Burbuja\\obj\\",
+        "outputPath": "C:\\Estructuras\\Parcial3\\Burbuja\\Burbuja\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

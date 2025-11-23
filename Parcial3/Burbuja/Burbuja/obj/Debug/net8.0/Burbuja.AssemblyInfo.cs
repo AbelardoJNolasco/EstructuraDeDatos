@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Burbuja")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e361bd68b23593aa9907a44c282f8f549006cc3e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Burbuja")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Burbuja")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
