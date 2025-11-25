@@ -2,7 +2,7 @@
 {
     private static void Main(string[] args)
     {
-        int[] ArregloEnteros = { 4, 2, 7, 8, 9, 3, 1, 6, 5 };
+        int[] ArregloEnteros = { 3,8,1,4,7,2,6,5,9,10 };
 
         for (int x = 0; x < ArregloEnteros.Length; x++)
         {
@@ -37,16 +37,19 @@
         int[] Izquierda = new int[Mitad];
         int[] Derecha = new int[Arreglo.Length-Mitad];
 
-        for (int i = 0; i < Mitad; i++)
-            Izquierda[i] = Arreglo[i];
-
-        for (int i = Mitad;i<Arreglo.Length; i++)
-            Derecha[i-Mitad]= Arreglo[i];
+        Arreglo[..Mitad].CopyTo(Izquierda, 0);
+        Arreglo[Mitad..].CopyTo(Derecha, 0);
 
         Izquierda = MergeSort(Izquierda);
         Derecha= MergeSort(Derecha);
 
-        int[] Resultado = new int[Arreglo.Length];
+        return Unir(Izquierda, Derecha);
+    }
+
+    static int[] Unir(int[] Izquierda, int[] Derecha)
+    {
+        int[] Resultado = new int[Izquierda.Length + Derecha.Length];
+
         int indiceIzq = 0, indiceDer = 0, indiceRes = 0;
 
         while (indiceIzq < Izquierda.Length && indiceDer < Derecha.Length)
@@ -57,11 +60,11 @@
                 Resultado[indiceRes++] = Derecha[indiceDer++];
         }
 
-        while (indiceIzq < Izquierda.Length)
-            Resultado[indiceRes++] = Izquierda[indiceIzq++];
+        if (indiceIzq < Izquierda.Length)
+            Izquierda[indiceIzq..].CopyTo(Resultado, indiceRes);
 
-        while (indiceDer < Derecha.Length)
-            Resultado[indiceRes++] = Derecha[indiceDer++];
+        if(indiceDer < Derecha.Length)
+            Derecha[indiceDer..].CopyTo(Resultado, indiceRes);
 
         return Resultado;
     }

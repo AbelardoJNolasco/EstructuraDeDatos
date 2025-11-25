@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jahir Nolasco\\Desktop\\Estructura de Datos\\MergeSort\\",
+  "WorkspaceRootPath": "C:\\Estructuras\\Parcial3\\MergeSort\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{672E0CD4-3CE3-49E4-87B6-3DEFD90B4F50}|MergeSort\\MergeSort.csproj|c:\\users\\jahir nolasco\\desktop\\estructura de datos\\mergesort\\mergesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{672E0CD4-3CE3-49E4-87B6-3DEFD90B4F50}|MergeSort\\MergeSort.csproj|c:\\estructuras\\parcial3\\mergesort\\mergesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{672E0CD4-3CE3-49E4-87B6-3DEFD90B4F50}|MergeSort\\MergeSort.csproj|solutionrelative:mergesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Jahir Nolasco\\Desktop\\Estructura de Datos\\MergeSort\\MergeSort\\Program.cs",
+              "DocumentMoniker": "C:\\Estructuras\\Parcial3\\MergeSort\\MergeSort\\Program.cs",
               "RelativeDocumentMoniker": "MergeSort\\Program.cs",
-              "ToolTip": "C:\\Users\\Jahir Nolasco\\Desktop\\Estructura de Datos\\MergeSort\\MergeSort\\Program.cs",
+              "ToolTip": "C:\\Estructuras\\Parcial3\\MergeSort\\MergeSort\\Program.cs",
               "RelativeToolTip": "MergeSort\\Program.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAYwDMAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-23T18:04:08.48Z",
               "EditorCaption": ""
