@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuickSort")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c535337baf2197215255630978821c848c735b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuickSort")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuickSort")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

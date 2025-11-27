@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jahir Nolasco\\Desktop\\Estructura de Datos\\QuickSort\\QuickSort\\QuickSort.csproj": {}
+    "C:\\Estructuras\\Parcial3\\QuickSort\\QuickSort\\QuickSort.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jahir Nolasco\\Desktop\\Estructura de Datos\\QuickSort\\QuickSort\\QuickSort.csproj": {
+    "C:\\Estructuras\\Parcial3\\QuickSort\\QuickSort\\QuickSort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jahir Nolasco\\Desktop\\Estructura de Datos\\QuickSort\\QuickSort\\QuickSort.csproj",
+        "projectUniqueName": "C:\\Estructuras\\Parcial3\\QuickSort\\QuickSort\\QuickSort.csproj",
         "projectName": "QuickSort",
-        "projectPath": "C:\\Users\\Jahir Nolasco\\Desktop\\Estructura de Datos\\QuickSort\\QuickSort\\QuickSort.csproj",
+        "projectPath": "C:\\Estructuras\\Parcial3\\QuickSort\\QuickSort\\QuickSort.csproj",
         "packagesPath": "C:\\Users\\Jahir Nolasco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jahir Nolasco\\Desktop\\Estructura de Datos\\QuickSort\\QuickSort\\obj\\",
+        "outputPath": "C:\\Estructuras\\Parcial3\\QuickSort\\QuickSort\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
