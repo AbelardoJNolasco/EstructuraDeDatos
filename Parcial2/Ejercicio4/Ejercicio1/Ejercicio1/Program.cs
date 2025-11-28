@@ -5,12 +5,12 @@ internal class Program
     private static void Main(string[] args)
     {
         string strCadena;
-        Pila unaPila;
+        Pila<char> unaPila;
 
         Console.WriteLine("Inserte la operación: ");
         strCadena = Console.ReadLine();
 
-        unaPila = new Pila(strCadena.Length);
+        unaPila = new Pila<char>(strCadena.Length);
 
         for (int x = 0; x < strCadena.Length; x++)
         {

@@ -6,19 +6,19 @@ using System.Threading.Tasks;
 
 namespace Ejercicio5
 {
-    internal class Cola
+    internal class Cola<Tipo>
     {
         private int _intFrente;
         private int _intFinal;
         private int _intLongitud;
-        private char[] Arreglo;
+        private Tipo[] Arreglo;
 
         public Cola(int intTamanio)
         {
             _intFrente = -1;
             _intFinal = -1;
             _intLongitud = intTamanio;
-            Arreglo = new char[_intLongitud];
+            Arreglo = new Tipo[_intLongitud];
         }
 
         public bool EstaVacia
@@ -43,13 +43,13 @@ namespace Ejercicio5
             }
         }
 
-        public void Encolar(char chrCadenaCaracter)
+        public void Encolar(Tipo dato)
         {
             if (EstaLlena)
                 throw new Exception("La cola está llena");
 
             _intFinal++;
-            Arreglo[_intFinal] = chrCadenaCaracter;
+            Arreglo[_intFinal] = dato;
 
             if (_intFinal == 0)
             {
@@ -57,13 +57,13 @@ namespace Ejercicio5
             }
         }
 
-        public char Desencolar()
+        public Tipo Desencolar()
         {
             if (EstaVacia)
                 throw new Exception("La cola está vacía");
 
-            char chrCadenaCaracter = Arreglo[_intFrente];
-            Arreglo[_intFrente] = default(char);
+            Tipo datoARegresar = Arreglo[_intFrente];
+            Arreglo[_intFrente] = default(Tipo);
 
             if (_intFrente == _intFinal)
             {
@@ -75,10 +75,10 @@ namespace Ejercicio5
                 _intFrente++;
             }
 
-            return (chrCadenaCaracter);
+            return (datoARegresar);
         }
 
-        public char LeerUltimo()
+        public Tipo LeerUltimo()
         {
             if (EstaVacia)
                 throw new Exception("La cola está vacía");

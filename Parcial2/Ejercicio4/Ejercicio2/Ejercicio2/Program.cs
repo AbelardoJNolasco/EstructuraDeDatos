@@ -6,12 +6,12 @@ internal class Program
     {
         string strCadena;
         string strCadenaInvertida = "";
-        Pila unaPila;
+        Pila<char> unaPila;
 
         Console.WriteLine("Ingresa la Cadena: ");
         strCadena = Console.ReadLine();
 
-        unaPila = new Pila(strCadena.Length);
+        unaPila = new Pila<char>(strCadena.Length);
 
         for (int x = 0; x < strCadena.Length; x++)
         {

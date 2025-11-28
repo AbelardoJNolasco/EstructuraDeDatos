@@ -6,17 +6,17 @@ using System.Threading.Tasks;
 
 namespace Ejercicio2
 {
-    internal class Pila
+    internal class Pila<Tipo>
     {
         private int _intTop;
         private int _intTamanio;
-        private char[] Arreglo;
+        private Tipo[] Arreglo;
 
         public Pila(int Tamanio)
         {
             _intTop = 0;
             _intTamanio = Tamanio;
-            Arreglo = new char[_intTamanio];
+            Arreglo = new Tipo[_intTamanio];
         }
 
         public bool EstaVacia
@@ -41,28 +41,28 @@ namespace Ejercicio2
             }
         }
 
-        public void Push(char chrCadenaCaracter)
+        public void Push(Tipo dato)
         {
             if (EstaLlena)
                 throw new Exception("La pila está llena");
 
-            Arreglo[_intTop] = chrCadenaCaracter;
+            Arreglo[_intTop] = dato;
             _intTop++;
         }
 
-        public char Pop()
+        public Tipo Pop()
         {
             if (EstaVacia)
                 throw new Exception("La pila está vacía");
 
             _intTop--;
-            char chrCaracterRegreso = Arreglo[_intTop];
-            Arreglo[_intTop] = default(char);
+            Tipo datoARegresar = Arreglo[_intTop];
+            Arreglo[_intTop] = default(Tipo);
 
-            return (chrCaracterRegreso);
+            return (datoARegresar);
         }
 
-        public char LeerTope()
+        public Tipo LeerTope()
         {
             if (EstaVacia)
                 throw new Exception("La pila está vacía");

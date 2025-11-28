@@ -2,3 +2,14 @@ C:\Estructuras\Parcial2\Ejercicio4\Ejercicio2\Ejercicio2\obj\Debug\net8.0\Ejerci
 C:\Estructuras\Parcial2\Ejercicio4\Ejercicio2\Ejercicio2\obj\Debug\net8.0\Ejercicio2.AssemblyInfoInputs.cache
 C:\Estructuras\Parcial2\Ejercicio4\Ejercicio2\Ejercicio2\obj\Debug\net8.0\Ejercicio2.AssemblyInfo.cs
 C:\Estructuras\Parcial2\Ejercicio4\Ejercicio2\Ejercicio2\obj\Debug\net8.0\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Estructuras\Parcial2\Ejercicio4\Ejercicio2\Ejercicio2\bin\Debug\net8.0\Ejercicio2.exe
+C:\Estructuras\Parcial2\Ejercicio4\Ejercicio2\Ejercicio2\bin\Debug\net8.0\Ejercicio2.deps.json
+C:\Estructuras\Parcial2\Ejercicio4\Ejercicio2\Ejercicio2\bin\Debug\net8.0\Ejercicio2.runtimeconfig.json
+C:\Estructuras\Parcial2\Ejercicio4\Ejercicio2\Ejercicio2\bin\Debug\net8.0\Ejercicio2.dll
+C:\Estructuras\Parcial2\Ejercicio4\Ejercicio2\Ejercicio2\bin\Debug\net8.0\Ejercicio2.pdb
+C:\Estructuras\Parcial2\Ejercicio4\Ejercicio2\Ejercicio2\obj\Debug\net8.0\Ejercicio2.sourcelink.json
+C:\Estructuras\Parcial2\Ejercicio4\Ejercicio2\Ejercicio2\obj\Debug\net8.0\Ejercicio2.dll
+C:\Estructuras\Parcial2\Ejercicio4\Ejercicio2\Ejercicio2\obj\Debug\net8.0\refint\Ejercicio2.dll
+C:\Estructuras\Parcial2\Ejercicio4\Ejercicio2\Ejercicio2\obj\Debug\net8.0\Ejercicio2.pdb
+C:\Estructuras\Parcial2\Ejercicio4\Ejercicio2\Ejercicio2\obj\Debug\net8.0\Ejercicio2.genruntimeconfig.cache
+C:\Estructuras\Parcial2\Ejercicio4\Ejercicio2\Ejercicio2\obj\Debug\net8.0\ref\Ejercicio2.dll
