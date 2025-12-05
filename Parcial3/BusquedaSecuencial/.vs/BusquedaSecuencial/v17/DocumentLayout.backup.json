@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jahir Nolasco\\Desktop\\Estructura de Datos\\BusquedaSecuencial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A372EC5-97D1-463B-8083-A09AC530EF44}|BusquedaSecuencial\\BusquedaSecuencial.csproj|c:\\users\\jahir nolasco\\desktop\\estructura de datos\\busquedasecuencial\\busquedasecuencial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A372EC5-97D1-463B-8083-A09AC530EF44}|BusquedaSecuencial\\BusquedaSecuencial.csproj|solutionrelative:busquedasecuencial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jahir Nolasco\\Desktop\\Estructura de Datos\\BusquedaSecuencial\\BusquedaSecuencial\\Program.cs",
+              "RelativeDocumentMoniker": "BusquedaSecuencial\\Program.cs",
+              "ToolTip": "C:\\Users\\Jahir Nolasco\\Desktop\\Estructura de Datos\\BusquedaSecuencial\\BusquedaSecuencial\\Program.cs",
+              "RelativeToolTip": "BusquedaSecuencial\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T01:56:46.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
